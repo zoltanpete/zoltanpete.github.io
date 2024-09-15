@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was an electrical engineering before becoming a software engineer.
-- How to reach me: __here__
+- How to reach me: __<a href="https://www.linkedin.com/in/zoltan-pete">LinkedIn</a>__
 
 ---
 
@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-%230072C6.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 </p>
 
 <p align="center">
