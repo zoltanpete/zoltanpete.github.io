@@ -23,27 +23,36 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-**Languages and Tools:**
+## 💻Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
+</p>
 
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
+<img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>  
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  
+<img src="https://img.shields.io/badge/confluence-000000.svg?style=for-the-badge&logo=confluence&logoColor=white"/>  
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>  
 </p>
 
 ---
 
-<a href="https://github.com/zjayers/github-readme-stats">
+<a href="https://github.com/zoltanpete/github-readme-stats">
    <img width="60%" alt="Zoltan's github stats" src="https://github-readme-stats.vercel.app/api?username=zoltanpete&show_icons=true&hide_border=true" />
 </a>
 
 -----
-Credits: [oltanpete](https://github.com/zoltanpete)
+Credits: [zoltanpete](https://github.com/zoltanpete)
 
 Last Edited on: 15/09/2024
