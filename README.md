@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>  
-<img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>  
 </p>
 
 <p align="center">
